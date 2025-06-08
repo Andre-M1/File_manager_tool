@@ -1,0 +1,8 @@
+# Ten projekt nie wymaga dodatkowych bibliotek
+# Używa tylko wbudowanych modułów Python:
+# - os
+# - pathlib  
+# - logging
+
+# Minimalna wersja Python
+# python>=3.6
