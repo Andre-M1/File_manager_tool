@@ -178,7 +178,7 @@ Wszystkie operacje są zapisywane w pliku `logs` w tym samym folderze co skrypt:
 - Sprawdź plik `logs` aby zobaczyć gdzie wystąpił problem
 
 ## Kontakt
-Autor: [Andrzej]
+Autor: Andrzej
 Email: andre.analyze@gmail.com
 GitHub: Andre-M1
 
